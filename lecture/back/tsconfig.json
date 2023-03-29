@@ -1,8 +1,0 @@
-{
-    "compilerOptions": {
-        "strict": true,
-        "lib": ["ES2015", "es2016", "es2017", "es2018", "es2019", "es2020"],
-        "moduleResolution": "node"  // class은 옜날 모듈들이 들어가 있다. Node에서 comeonJS
-
-    }
-}
